@@ -6,7 +6,7 @@ This program is the first of a 3 phase project. It's purpose is to prove that I'
 
 Below is a YouTube link to my demonstration video.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/64z8oTQ3l64)
 
 # Development Environment
 
