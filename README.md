@@ -1,32 +1,28 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+As a software engineer, I felt it is important to learn C++. This repository documents the journey of my first GUI.
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+This program is the first of a 3 phase project. It's purpose is to prove that I've downloaded and installed the necessary libraries required to get C++ to work on my machine.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+Below is a YouTube link to my demonstration video.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+WXWidgets is where we got the cross-platform GUI library.
 
-{Describe the programming language that you used and any libraries.}
-
+The programming language used for this module was C++.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [wxsidgets.org](https://wxwidgets.org/downloads/)
+- [YouTube.com](https://www.youtube.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Below is a list of future work to be done.
 
-- Item 1
-- Item 2
-- Item 3
+- Make my own GUI
+- Use this knowledge to give past projects their own GUI
